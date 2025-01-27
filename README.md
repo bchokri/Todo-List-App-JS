@@ -27,12 +27,12 @@ Check out the live demo: [Todo List App Demo](https://yourusername.github.io/tod
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone git@github.com:bchokri/Todo-List-App-JS.git
    ```
 
 2. Navigate to project directory
    ```sh
-   cd todo-list-app
+   cd Todo-List-App-JS.git
    ```
 
 3. Open `index.html` in your browser
